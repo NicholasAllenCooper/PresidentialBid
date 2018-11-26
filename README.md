@@ -1,4 +1,4 @@
-# My Presidential Bid
+# Introducing My Presidential Bid
 I am announcing my big for the United States presidency. I will be running outside of the party influence, because I cannot, in good faith, attach my bid to either the GOP nor to the Democratic Party. Neither do I believe that I can attach my bid to either the Green Party, the Libertarian Party, nor any other minor party associated with the United States, and that will be why I will run as an Independent.
 
 The run as an Independent will be a longshot run, as I am incapable of the kind of funding that the parties can muster, and will instead focus on using social media platforms to bolster my run. This moment, being a dangerous time to use social media with any expectation of good faith regarding those facts related to any political discussion, verification will become important, as facts will be misconstrued, misused, and will be exchanged for bold-faced lies.
@@ -6,3 +6,39 @@ The run as an Independent will be a longshot run, as I am incapable of the kind 
 So, I find it best to begin with a vision and mission for what political positions I hold, what I would like to see, and I would prioritize, assuming that it is possible for such things to happen.
 
 The details regarding the changes I would advocate for are going to come, slow and plodding, as they are spelled out, analyzed, and criticized for effectiveness.
+
+## Your Responsibilities as a Citizen
+This does not work without you. If you want a brighter America, then it must start with you. Your vote matters, and in fact, the ONLY thing that your vote does is count. However, your work does not end at the voting booth:
+
+Firstly, we have to deal with responsibilities. It appears to me that neither of the two major parties are interested in accountability and responsibility. Firstly, I personally define and use the word ‘responsibility’ as “the ability to respond”, and is something that we all share every day for anything we see in this world. It doesn’t necessarily mean that your action is always necessary nor beneficial, but in many ways, you are responsible for the troubles you see in the world around, even if it all comes down to changing your mind, and your perspective.
+
+I define those who are ‘accountable’ as those who will bear the consequences of the response. In this, you will find that I claim that the media is pandering to your dollar, that corporations are pandering to your dollar, that the government is pandering to your power, academia is pandering to your views on education, and society is made up of many of you. Therefore, even if I’m not speaking to all of you, if you blame society’s ills on any or all of these things, my claim is that we are all responsible, and we are all accountable, and there is no way around it but to hold ourselves responsible for what we see.
+
+Furthermore, I define ‘attribution’ as the cause, and in this respect, I understand that there are numerous attributions for how things got to where they are today. In many respects, things are much better than they were, for many people, in some ways, fears for where things are going, is not new, but must not be dismissed either, as dismissing those fears have led people to act out.
+
+There are numerous people who attribute their poverty to systemic means, and those who do would be right. These are things that must change, and they must change for our next generation. It must be understood that the real poverty does not rest alone with the cold nights without heat, the hungry nights without food, but it rests at the feet of the children of the overworked and overwhelmed who haven’t time to teach the lessons and wisdom to build a brighter future. Those lessons instead become lessons of despair and of fatalism, where there seems to exist no brighter future to share. Any work on poverty must both fix healthcare and hope. Our work on hunger must feed bellies and feed minds. Any work on our economy must not focus solely on bettering the insufficiency that comes from wages, but allow for the ability to take risks to better oneself.
+
+Hold the news to accuracy in their reporting. If you want the reporting to focus on important issues instead of the next debutant’s haircut, then hold the reporting to a higher standard. If you want reporting to slow down and check facts before speculation, then you must provide your patience to those that do the reporting.
+
+If you want corporations to care for the customer and the employees, then hold them responsible for doing so. If you take part in Black Friday shopping sprees, then complain about overworked hours, then recognize the connection, and determine which is more important. If you want banks to treat people fairly, hold them accountable when their practices are made public, and hold the watchdogs responsible for monitoring them.
+
+Furthermore, continually question everyone in office whether they are interested in profiting of their power, or in helping out the public. Even if my bid succeeds, I would ask you do the same for me, daily. Trust, but verify that every action is for the people first.
+Actions are necessary, but awareness is the most important thing that you can do for yourself. Be wise when you act, be wise when you vote, be wise when you read, and be wise when you spend your money.
+
+If you want things to change, we must first, accept our own responsibility and our own accountability to the shape of our society, and we must not allow ourselves to feel defeated.
+
+## Policy Details
+I propose the following policies, in order of prioritization:
+1. [Partisanship](../partisanship.md)
+
+2. [Healthcare Policy](../healthcare.md)
+
+3. [Economic Policy](../economy.md)
+
+4. [Drug Policy](../drugs.md)
+
+5. [Citizenship and Immigration Policy](../citizenship.md)
+
+6. [Education Policy](../education.md)
+
+7. [Feasibility Studies](../moonshots.md)

@@ -1,0 +1,17 @@
+Our congress is the most divided in voting as it has been in the history of recording party-line voting, with the trend of party-line voting sitting near 60% for the last decade: https://towardsdatascience.com/political-partisanship-a-look-at-the-data-e71946199586. The reason for this is that our system punishes compromise and inhibits working together. This spills out into how the people of Main Street treat each other as well.
+
+Furthermore, people on both sides want the same things: financial security, physical safety and security, good health, self-determination, purpose, belonging, fulfillment, and stability, but they differ on the ‘how?’ and the ‘which first?’.
+
+Perhaps the most ironic thing is just how much each person’s self-determination relies on each other.
+
+My number one priority will be to change how we vote in the United States. I’m asking for nothing less than a change to your state constitutions. Voting is managed by each state, and any changes will need to come from the states themselves. The type of voting that is most common in the United States is called First-Past-the-Post voting, and this style of voting has been shown to punish agreement between candidates. If we want to see a governance-style that focuses on agreement and on working together, this must be the first change.
+
+This is akin to blaming a generation below you for being spoiled and lazy, when it is the generation that you raised.
+
+I call for each of you, to push your state legislature to use proportional representation, instance runoff, or some alternative voting system that doesn’t punish parties for working together.
+
+No change will ever be done at a federal level if the change does not start at the state level.
+
+It would benefit all to understand that society needs cohesion and collaboration, but it does not need coercion, conformance, nor rampant unfettered individualism.
+
+America is one massive family, and it has been acting like a very dysfunctional family for too long. Perhaps it’s time we sit down and work this out, starting with how decisions are made.

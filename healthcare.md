@@ -1,0 +1,3 @@
+The top 2 costs in our healthcare system are: administrative costs and drug costs. A single-payer system would drop the amount of administration that is necessary and allow negotiation with the drug companies. There is no reasonable means to “shop around” for non-elective medicine, and the largest insurance pool is the best managed insurance pool. Therefore, a single-payer system with supplemental insurance through employers will help to drop the enormous costs that have come to plague our system.
+
+It will require some higher taxes to get there; however, the effect will be to reduce the burden overall, for everyone.

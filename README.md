@@ -42,3 +42,14 @@ I propose the following policies, in order of prioritization:
 6. [Education Policy](education.md)
 
 7. [Feasibility Studies](moonshots.md)
+
+## Other
+### Drug legalization
+Legalize drugs, tax them, and put taxes to use on rehabilitation centers.
+
+This will end the cartels in Mexico as well, and have a large diminishing effect on organized crime.
+
+### Gun problem is a Mental Health Problem
+Must deal with by changing society first. 
+
+People will get abortions in back-alleys, illegally, and dangerously if they cannot get them legally. The same is true with guns. However, more regulation and accountability must be in place.

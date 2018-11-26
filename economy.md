@@ -46,3 +46,5 @@ So, it’s necessary that this be done as varying processes with the reins held 
     * Churches, community service, and volunteer agencies will still need to pick up some slack.
 * Miscellaneous
     * Children will receive a Basic Income into a trust fund that they get later, to pay for college expenses or a first house.
+
+Discuss problems: https://www.newyorker.com/magazine/2018/07/09/who-really-stands-to-win-from-universal-basic-income

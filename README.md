@@ -77,3 +77,4 @@ There are numerous things that we’d have to get right before it could work, an
 There are so many things that also need to be considered that require such a study before any governing organization would ever consider such an idea.
 
 ### Fund an Experieent Reproduction Platform for Biomedical and Psychiatric Experiments
+https://en.wikipedia.org/wiki/Replication_crisis#Funding_for_replication_studies

@@ -29,16 +29,16 @@ If you want things to change, we must first, accept our own responsibility and o
 
 ## Policy Details
 I propose the following policies, in order of prioritization:
-1. [Partisanship](../partisanship.md)
+1. [Partisanship](partisanship.md)
 
-2. [Healthcare Policy](../healthcare.md)
+2. [Healthcare Policy](healthcare.md)
 
-3. [Economic Policy](../economy.md)
+3. [Economic Policy](economy.md)
 
-4. [Drug Policy](../drugs.md)
+4. [Drug Policy](drugs.md)
 
-5. [Citizenship and Immigration Policy](../citizenship.md)
+5. [Citizenship and Immigration Policy](citizenship.md)
 
-6. [Education Policy](../education.md)
+6. [Education Policy](education.md)
 
-7. [Feasibility Studies](../moonshots.md)
+7. [Feasibility Studies](moonshots.md)

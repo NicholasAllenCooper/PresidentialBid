@@ -53,3 +53,26 @@ This will end the cartels in Mexico as well, and have a large diminishing effect
 Must deal with by changing society first. 
 
 People will get abortions in back-alleys, illegally, and dangerously if they cannot get them legally. The same is true with guns. However, more regulation and accountability must be in place.
+
+### Progressive Citizenship
+Citizenship now takes 10 years or more. We allow anyone to start at 0% and make their way to 100% citizenship through time lived and worked, and a strong citizenship test.
+
+#[comment] (Problem with insurance as corporations)
+
+### Study Benefits and Dangers of AI Encroachment of Governance
+### Feasibility Study for Earmarked Taxation
+Removing budgeting from congress
+
+### Feasibility Study for Proportional Representation
+If elected, I would attempt a study to determine the feasibility of a system that would allow a blockchain-style system of voting, allowing each citizen to proportionally select the amount of power any specific representative has at any given moment in time. In other words, each person could effectively give one representative 20% of their vote for a bill, and another could receive 80% of their vote for a bill. If desired, the representation could be given to any individual, whether a trusted friend, or could be maintained to vote for each bill.
+The benefits of such a style of voting would be:
+* Absolute responsibility – You can vote yourself, or have someone else do it who is more likely to read each part of the bill being passed.
+* Immediate – You can change who represents you on-the-fly, if someone is found to be acting outside of their promises.
+
+There are numerous things that we’d have to get right before it could work, and this is where the feasibility study will demonstrate the possibility or the infeasibility in doing so:
+* Security – It would be necessary for us to authorize by citizenship, and to ensure malicious actors cannot overtake the system.
+* Ease – It would be necessary to demonstrate that even the technologically illiterate could use the system and so would those without access to technology. This may mean blockchain with paper backing.
+* Anonymity – It is almost a conflicting requirement that a vote be authorized and yet anonymous, and makes the idea of using blockchain very difficult.
+
+There are so many things that also need to be considered that require such a study before any governing organization would ever consider such an idea.
+

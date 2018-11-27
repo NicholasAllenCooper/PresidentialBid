@@ -22,6 +22,8 @@ https://www.nationalpriorities.org/budget-basics/federal-budget-101/spending/
 
 Social Security, unlike the other two, is self-funded through its own tax basis, and isn't necessary to be included in the discussion. However, Social Security will be discussed as well.
 
+Because there is an entire section of this devoted to healthcare, and another devoted to the armed forces, I will not cover this here.
+
 ## Slow Changes and Discrete Cut-offs
 Many economic problems are caused by failed expectations and the failures to predict the 'market conditions' of the public, which also include the government. In order to avoid extreme swings in the market, changes must be gradual and predictable. Furthermore, hard cliffs between brackets can cause additional problems like the Medicare Donut Hole, and can create other problems, such as:
 * Forcing people to remain out of work to maintain healthcare and income
@@ -52,6 +54,40 @@ However, the Basic Guaranteed Income would not be flat either, but would be used
 Firstly, hard-and-fast irreversible changes to the economy cause problems. Therefore, any change, at the magnitude that I’m proposing here, would necessarily have to be implemented slowly.
 
 This idea is so much further down on the list as a priority, because this would effectively be an experiment run on the public, one that must be reversible if it demonstrates that it is the cause of making things worse. However, as is always the case with any policy, policy makers may lie about the causes, and may change implementation or the metrics.
+
+The flat tax rate will then be parameterized by:
+* The state of the economy - increasing with the GDP growth rate
+* The public debt - increasing with the GDP-to-debt ratio
+
+Ultimately, I'm proposing the following parameterized tax rate on personal incomes, before accounting for deductions or Basic Income:
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=\inline&space;R&space;=&space;100\%(r&space;&plus;&space;av&space;&plus;&space;bm&space;&plus;&space;ck&space;&plus;&space;dg)" target="_blank"><img src="https://latex.codecogs.com/svg.latex?\inline&space;R&space;=&space;100\%(r&space;&plus;&space;av&space;&plus;&space;bm&space;&plus;&space;ck&space;&plus;&space;dg)" title="R = 100\%(r + av + bm + ck + dg)" /></a>
+
+The parameters will be:
+| Parameter |  Description  | Recommendation |
+|---|---|
+| R | Tax rate                         |      |
+|---|---|
+| r | Base rate                        | 0.30 |
+| v | GINI coefficient                 | 0.04 |
+| m | Intergenerational Mobility Index | 0.04 |
+| k | Debt-to-GDP Ratio                | 0.10 |
+| g | GDP Growth Rate                  | 2.00 |
+
+This will also allow for us to handle emergency situations, taking on additional deficits such as wars and catastrophes, increasing our GDP-to-debt ratio as it goes.
+
+Example tax rates using the recommended values would be:
+| GINI | IGM | Debt-to-GDP | GDP Growth ||  R    | Comment |
+|------|-----|-------------|------------||-------|---------|
+| 0.5  | 0.5 | 100%        | 2%         || 48.0% | Current standing in 2018 |
+| 0.2  | 0.2 | 70%         | 4%         || 46.6% | Ideal scenario           |
+| 0.2  | 0.2 | 20%         | -4%        || 25.6% | Somewhat realistic minimum tax rate |
+| 0.3  | 0.35 | 240%       | -2%        || 52.6% | Hypothetical recession using Japan's current conditions |
+| 0.2  | 0.2  | 70%        | 4%         || 46.6% | Reasonable target |
+
+The public will have the ability to vote on these parameters as 
+
+The figures here will be given public 
 
 ## Basic Income Parameterization
 The 

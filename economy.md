@@ -64,6 +64,7 @@ Ultimately, I'm proposing the following parameterized tax rate on personal incom
 <a href="https://www.codecogs.com/eqnedit.php?latex=\inline&space;R&space;=&space;100\%(r&space;&plus;&space;av&space;&plus;&space;bm&space;&plus;&space;ck&space;&plus;&space;dg)" target="_blank"><img src="https://latex.codecogs.com/svg.latex?\inline&space;R&space;=&space;100\%(r&space;&plus;&space;av&space;&plus;&space;bm&space;&plus;&space;ck&space;&plus;&space;dg)" title="R = 100\%(r + av + bm + ck + dg)" /></a>
 
 The parameters will be:
+
 | Parameter |  Description  | Recommendation |
 |---|---|
 | R | Tax rate                         |      |
@@ -77,6 +78,7 @@ The parameters will be:
 This will also allow for us to handle emergency situations, taking on additional deficits such as wars and catastrophes, increasing our GDP-to-debt ratio as it goes.
 
 Example tax rates using the recommended values would be:
+
 | GINI | IGM | Debt-to-GDP | GDP Growth ||  R    | Comment |
 |------|-----|-------------|------------||-------|---------|
 | 0.5  | 0.5 | 100%        | 2%         || 48.0% | Current standing in 2018 |

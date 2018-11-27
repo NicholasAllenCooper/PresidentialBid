@@ -1,28 +1,61 @@
 # Economy
 
 ## Public Debt
-The debt both doesn't matter, and at the same time, is possibly leading us to a crisis. Ultimately, the actual debt doesn't matter as much as the GDP-to-debt ratio, which is a measure of how easily the debt can be paid down. Confidence in the ability to pay the debt is what prevents a debt crisis from occurring. The argument then comes from deciding what the threshold is that moves a country from benign to dangerous. Ultimately, any sovereign country can print more money through, which will enhance it's ability to pay off any debt, but this is usually done by quickly driving up inflation, which often (but not necessarily) destroys the value of the currency for that nation.
+The debt both doesn't matter, and at the same time, is possibly leading us to a crisis. Ultimately, the actual debt doesn't matter as much as the debt-to-GDP ratio, which is a measure of how easily the debt can be paid down. Confidence in the ability to pay the debt is what prevents a debt crisis from occurring. The argument then comes from deciding what the threshold is that moves a country from benign to dangerous. Ultimately, any sovereign country can print more money through, which will enhance it's ability to pay off any debt, but this is usually done by quickly driving up inflation, which often (but not necessarily) destroys the value of the currency for that nation.
 
 The debt was too much when the Democrats were in power and too much when the Republicans were in power. Hovering near 100% of GDP, the debt is not a problem as long as:
 * The deficit does not continue to outstrip GDP growth
 * Another recession does not occur, which will cause the deficit to outstrip GDP growth
 
-The idea of deficit spending is to maintain a debt during a recession, and to pay it off during a boom. However, we have been cutting taxes even more, increasing our deficit significantly, at a point on the Laffer Curve where the cuts are not paying for themselves, to the chagrin of those who have been pushing for the cuts. This is all on the 
+The idea of deficit spending is to maintain a debt during a recession, and to pay it off during a boom. However, we have been cutting taxes even more, increasing our deficit significantly, at a point on the Laffer Curve where the cuts are not paying for themselves, to the chagrin of those who have been pushing for the cuts. This is all on the edges of what will be our next recession, as was due for either person to have won the presidency.
 
-It will be necessary that this be dealt with before debt-to-GDP. Including both mandatory and discretionary spending, the top 3 expenditures are: Health, Social Security, and Defense/Homeland Security.
+https://www.forbes.com/sites/rickungar/2012/09/16/the-numbers-dont-lie-why-lowering-taxes-for-the-rich-no-longer-works-to-grow-the-economy/#401f85284bf4
+
+It will be necessary for us to deal with the debt-to-GDP problem before it escalates, but we are in a position where we cannot manage this in another recession. Therefore, policies will need to be put into place to ensure that we do deal with it. We need to tie our income to GDP growth to stablize our economy. As GDP growth decreases and goes negative, taxes must lower to match. As GDP growth increases, taxes must increase to match. Therefore, it is best that our tax rate be a function of the GDP growth.
+
+Furthermore, our top 3 spending areas, including both mandatory and discretionary spending, are:
+1. Healthcare
+2. Social Security
+3. Defense and Homeland Security
+
 https://www.nationalpriorities.org/budget-basics/federal-budget-101/spending/
-Social Security is a stand-alone system that pays for itself, but we have been borrowing from the Social Security budget since Reagan.
-It has already been demonstrated that small changes to tax rates can significantly affect the deficit, which has grown higher with increasing military 
 
-[comment]: # (Can we tie Social Security to Stock Markeet???)
+Social Security, unlike the other two, is self-funded through its own tax basis, and isn't necessary to be included in the discussion. However, Social Security will be discussed as well.
 
-[comment]: # (Government can hold no more than 10% of any company, but must buy up if holding less than 5%. Government takeover of any company)
+## Slow Changes and Discrete Cut-offs
+Many economic problems are caused by failed expectations and the failures to predict the 'market conditions' of the public, which also include the government. In order to avoid extreme swings in the market, changes must be gradual and predictable. Furthermore, hard cliffs between brackets can cause additional problems like the Medicare Donut Hole, and can create other problems, such as:
+* Forcing people to remain out of work to maintain healthcare and income
+* Sudden cuts to agencies can cancel long-term projects, wasting more money in the long-run
 
-[comment]: # (Instead of taxing businesses, can we buy up stocks in them as silent partners? Can we buy foreign stocks to prevent power?)
+So, new monetary rules should at least pay homage to continuity when being developed, in order to phase-in and phase-out.
 
-## Slow and Reversible Flat-Tax with Basic Income Guarantee
+## Acknowledging the Cycle of Poverty
+The Intergenerational Mobility Index for the United States has raised to approximately .5 as of 2006. This measure represents how infeasibility the American Dream (i.e. the higher the number, the more likely you are going to remain as poor as your parents). I like to call it, the stuck-in-your-rut mobility index.
+
+https://en.wikipedia.org/wiki/Socioeconomic_mobility_in_the_United_States#Current_state
+
+However, let's actually discuss what poverty is. When people think about poverty, the mental picture of choice is usually of children going hungry, electricity bills going unpaid in the summer months, and people out on the streets with no housing. This happens every day in the United States, but it's not the full picture. Poverty also includes the single-mother, working 3 jobs as her kids fend for themselves, just so that she can provide them with food and electricity, and pay their medical bills. Poverty is constant fighting about money, overheard by the children, leaving them with constant worry as they try to do their schoolwork. Poverty is wondering if there will be enough gas in the car to make it to work, and still pick up their child from afterschool practice. Poverty is a teen or young adult, being forced to stay home and watch their siblings, instead of attending higher education.
+
+Poverty is the greatest inhibitor of an educated and skilled workforce.
+
+When the stuck-in-your-rut index is lower, you have more choices and more freedom to change this. As it stands, this value needs to change.
+
+## Taxes and Basic Income
+
+I'm proposing the following changes all at once:
+* Flat tax
+* Basic Guaranteed Income
+* Dissolution of laws that have traditionally contributed to fighting poverty
+
+However, the Basic Guaranteed Income would not be flat either, but would be used as incentives. However, for many people, this would be a negative effective tax.
+
 Firstly, hard-and-fast irreversible changes to the economy cause problems. Therefore, any change, at the magnitude that I’m proposing here, would necessarily have to be implemented slowly.
-This is so much further down on the list as a priority, because this would effectively be an experiment run on the public, one that must be reversible if it demonstrates that it is the cause of making things worse. However, as is always the case with any policy, policy makers may lie about the causes, and may change implementation or the metrics.
+
+This idea is so much further down on the list as a priority, because this would effectively be an experiment run on the public, one that must be reversible if it demonstrates that it is the cause of making things worse. However, as is always the case with any policy, policy makers may lie about the causes, and may change implementation or the metrics.
+
+## Basic Income Parameterization
+The 
+
 So, it’s necessary that this be done as varying processes with the reins held over some variables and not others, so it CAN change, and the changes can made be predictable. The ultimate goal, assuming the years have played out, and the full implementation is completed, will be:
 * A Basic Income which is parameterized by:
     * An acceptable disparity measure (such as the GINI coefficient and Intergenerational Mobility Index) that will increase the payout as inequality worsens, with the goal of maintaining a range for the measure used.
@@ -43,7 +76,7 @@ So, it’s necessary that this be done as varying processes with the reins held 
     * All transfer of money prior to the taxation cutoff date is removed from the transferor as income and will be considered by the receiver as income.
     * Charities will be taxed on money that is neither used to pay workers nor for the consumables and distributions.
 * Slowly, the following will be phased out:
-    * Social Security will be entirely replaced with the Basic Income, but only over nearly 50 years as those that paid in are still entitled to the money paid. 
+    * Social Security and TRS will be entirely replaced with the Basic Income, but only over nearly 50 years as those that paid in are still entitled to the money paid. 
     * Employment insurance is removed.
     * Public Pensions and Thrift Savings Plans will be replaced with 401k with matching.
     * Minimum Wage will be phased out altogether, and hopefully, so will jobs that don’t pay well.
@@ -56,3 +89,14 @@ So, it’s necessary that this be done as varying processes with the reins held 
     * Children will receive a Basic Income into a trust fund that they get later, to pay for college expenses or a first house.
 
 Discuss problems: https://www.newyorker.com/magazine/2018/07/09/who-really-stands-to-win-from-universal-basic-income
+
+
+
+
+
+[comment]: # (Can we tie Social Security to Stock Markeet???)
+
+[comment]: # (Government can hold no more than 10% of any company, but must buy up if holding less than 5%. Government takeover of any company)
+
+[comment]: # (Instead of taxing businesses, can we buy up stocks in them as silent partners? Can we buy foreign stocks to prevent power?)
+

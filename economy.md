@@ -42,6 +42,11 @@ Poverty is the greatest inhibitor of an educated and skilled workforce.
 
 When the stuck-in-your-rut index is lower, you have more choices and more freedom to change this. As it stands, this value needs to change.
 
+## People Don't Hate Inequality of Cash, They Hate Inequality of Influence
+The problem with inequality is not that people are more skilled than others. It is not that people are richer than others. The number one problem, when it comes to the problem of inequality, is that money becomes influence, and those with influence have all the power to control where the money goes, effectively creating the cycle of poverty and affluence to begin with.
+
+https://motherboard.vice.com/en_us/article/mby3ja/complex-systems-theorists-explain-why-democracy-is-dying?utm_source=quora&utm_medium=referral
+
 ## Taxes and Basic Income
 
 I'm proposing the following changes all at once:

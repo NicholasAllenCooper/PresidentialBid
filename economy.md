@@ -65,15 +65,15 @@ Ultimately, I'm proposing the following parameterized tax rate on personal incom
 
 The parameters will be:
 
-| Parameter |  Description  | Recommendation |
-|---|---|
-| R | Tax rate                         |      |
-|---|---|
-| r | Base rate                        | 0.30 |
-| v | GINI coefficient                 | 0.04 |
-| m | Intergenerational Mobility Index | 0.04 |
-| k | Debt-to-GDP Ratio                | 0.10 |
-| g | GDP Growth Rate                  | 2.00 |
+ Parameter |  Description  | Recommendation
+---|---
+ R | Tax rate                         | Default Value
+---|---
+ r | Base rate                        | 0.30
+ v | GINI coefficient                 | 0.04
+ m | Intergenerational Mobility Index | 0.04
+ k | Debt-to-GDP Ratio                | 0.10
+ g | GDP Growth Rate                  | 2.00
 
 This will also allow for us to handle emergency situations, taking on additional deficits such as wars and catastrophes, increasing our GDP-to-debt ratio as it goes.
 

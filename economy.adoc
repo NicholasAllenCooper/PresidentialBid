@@ -1,5 +1,7 @@
 = Economy
 
+:toc:
+
 == Inequality
 An entire page was devoted to the discussion about [inequality](./inequality.md).
 

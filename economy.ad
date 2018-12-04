@@ -1,9 +1,9 @@
-# Economy
+= Economy
 
-## Inequality
+== Inequality
 An entire page was devoted to the discussion about [inequality](./inequality.md).
 
-## Public Debt
+== Public Debt
 The debt both doesn't matter, and at the same time, is possibly leading us to a crisis. Ultimately, the actual debt doesn't matter as much as the debt-to-GDP ratio, which is a measure of how easily the debt can be paid down. Confidence in the ability to pay the debt is what prevents a debt crisis from occurring. The argument then comes from deciding what the threshold is that moves a country from benign to dangerous. Ultimately, any sovereign country can print more money through, which will enhance it's ability to pay off any debt, but this is usually done by quickly driving up inflation, which often (but not necessarily) destroys the value of the currency for that nation.
 
 The debt was too much when the Democrats were in power and too much when the Republicans were in power. Hovering near 100% of GDP, the debt is not a problem as long as:
@@ -17,9 +17,9 @@ https://www.forbes.com/sites/rickungar/2012/09/16/the-numbers-dont-lie-why-lower
 It will be necessary for us to deal with the debt-to-GDP problem before it escalates, but we are in a position where we cannot manage this in another recession. Therefore, policies will need to be put into place to ensure that we do deal with it. We need to tie our income to GDP growth to stablize our economy. As GDP growth decreases and goes negative, taxes must lower to match. As GDP growth increases, taxes must increase to match. Therefore, it is best that our tax rate be a function of the GDP growth.
 
 Furthermore, our top 3 spending areas, including both mandatory and discretionary spending, are:
-1. Healthcare
-2. Social Security
-3. Defense and Homeland Security
+. Healthcare
+. Social Security
+. Defense and Homeland Security
 
 https://www.nationalpriorities.org/budget-basics/federal-budget-101/spending/
 
@@ -27,14 +27,14 @@ Social Security, unlike the other two, is self-funded through its own tax basis,
 
 Because there is an entire section of this devoted to healthcare, and another devoted to the armed forces, I will not cover this here.
 
-## Slow Changes and Discrete Cut-offs
+== Slow Changes and Discrete Cut-offs
 Many economic problems are caused by failed expectations and the failures to predict the 'market conditions' of the public, which also include the government. In order to avoid extreme swings in the market, changes must be gradual and predictable. Furthermore, hard cliffs between brackets can cause additional problems like the Medicare Donut Hole, and can create other problems, such as:
 * Forcing people to remain out of work to maintain healthcare and income
 * Sudden cuts to agencies can cancel long-term projects, wasting more money in the long-run
 
 So, new monetary rules should at least pay homage to continuity when being developed, in order to phase-in and phase-out.
 
-## Acknowledging the Cycle of Poverty
+== Acknowledging the Cycle of Poverty
 The Intergenerational Mobility Index for the United States has raised to approximately .5 as of 2006. This measure represents how infeasibility the American Dream (i.e. the higher the number, the more likely you are going to remain as poor as your parents). I like to call it, the stuck-in-your-rut mobility index.
 
 https://en.wikipedia.org/wiki/Socioeconomic_mobility_in_the_United_States#Current_state
@@ -50,7 +50,7 @@ The problem with inequality is not that people are more skilled than others. It 
 
 https://motherboard.vice.com/en_us/article/mby3ja/complex-systems-theorists-explain-why-democracy-is-dying?utm_source=quora&utm_medium=referral
 
-## Taxes and Basic Income
+== Taxes and Basic Income
 
 I'm proposing the following changes all at once:
 * Flat tax

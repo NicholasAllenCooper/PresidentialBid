@@ -1,13 +1,17 @@
-# Abstract
+= Inequality
+
+:toc:
+
+= Abstract
 My claim is that people are not as interested in income inequality as they are about:
 - Inequality of influence
 - The misery of abject poverty
 
-# Intro
+= Intro
 People typically talk about inequality in terms of money. However, my argument will be that it's actually secondary to what people are
 really concerned about.
 
-# The Root Concerns of Inequality
+= The Root Concerns of Inequality
 People understand very well that there will always be people more skilled, more productive, more determine, and sometimes just plain more 
 lucky or more willing to break the rules, and therefore will be more rich than others. Marx failed to account for Zipf's Law when it came 
 to discussions about equality. 
@@ -27,11 +31,11 @@ survive, but that they will thrive instead.
 
 The concern is still there. People are not only not thriving, many are abjectly miserable.
 
-## The Root Concerns of Poverty
+== The Root Concerns of Poverty
 
-## Immiseration
+== Immiseration
 
-## Inequality of Influence
+== Inequality of Influence
 To key in on the concerns that the public has, it pays to remember that they are people with their own concerns and that they want for
 their concerns to be heard. Oftentimes the expectations from others exceed the potential, and that leads to disapointment in every that
 such a mismatch occurs.
@@ -42,7 +46,7 @@ giving some control over to automata such as artificial intelligence, calculator
 other computerized and automatic things. We want the influence to decide how these things work in relation to us, but we'd rather not
 do everything ourselves.
 
-### What the Public Thinks When They Say "Elite"
+=== What the Public Thinks When They Say "Elite"
 To an average person, when they use the term "elite", the meaning is "someone with influence". It's not a term that means "rich" or
 "skilled" to the average person the way the term means to most. Instead, the feeling conjured up is someone who can be heard.
 
@@ -56,7 +60,7 @@ lives of those they consider to be "influential".
 However, this is why Californian's are considered "elite". This is why politicians are considered "elite". It's why academics, the media
 personnel, and so on are considered "elite". The perception is that there is more influence on and over their lives.
 
-### Representation
+=== Representation
 
 This is the purpose of the representative in a representative democratic republic such as our own. The representative is supposed to
 take our concerns, read through and write the legalese of all of the future laws, and vote for those that are the best. The average
@@ -65,22 +69,22 @@ person then asks themselves, "but best for whom?".
 In the public sphere, divorced from discussion of legal policy, the inequality of influence is also felt in numerous ways by various
 people. If you are at all interested in why we are in our current standing, it's due to perceptions that are definitely not ungrounded:
 
-- In terms of class:
-  - The average worker perceives that the "elite" don't listen to them
-  - The average middle-class to lower-class individual perceives that "money = influence" and that they have none
+* In terms of class:
+** The average worker perceives that the "elite" don't listen to them
+** The average middle-class to lower-class individual perceives that "money = influence" and that they have none
 
-- In terms of demographics:
-  - The average minority perceives less influence in their lives than members of the majority groups, and calls the influential anything 
+* In terms of demographics:
+** The average minority perceives less influence in their lives than members of the majority groups, and calls the influential anything 
     from: "the hegemony", "the patriarchy", and so they have started several movements:
-    - Black-Lives Matter - because of perceived lack of influence in the justice system and in the relationships with police forces
-    - #MeToo and #TimesUp - because of perceived lack of influence in the workplace and in the justice system
+*** Black-Lives Matter - because of perceived lack of influence in the justice system and in the relationships with police forces
+*** #MeToo and #TimesUp - because of perceived lack of influence in the workplace and in the justice system
     
-  - The average member of the majority group perceives influence as zero-sum, and that they are losing theirs, and has formed into the
+** The average member of the majority group perceives influence as zero-sum, and that they are losing theirs, and has formed into the
     Alt-Right, and various other right-wing groups
     
-- In terms of information:
-  - The average person perceives that their concerns are not being reported (media-bias)
-  - The average person perceives that their concerns are not being well-studied and described (anti-intellectualism, conspiracy,
+* In terms of information:
+** The average person perceives that their concerns are not being reported (media-bias)
+** The average person perceives that their concerns are not being well-studied and described (anti-intellectualism, conspiracy,
     anti-academia, and anti-science)
 
 Ultimately, people want representation, and they know that, if the squeaky wheel gets the oil, then it has turned into a squeek-match to

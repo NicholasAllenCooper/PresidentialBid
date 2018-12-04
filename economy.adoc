@@ -3,7 +3,7 @@
 :toc:
 
 == Inequality
-An entire page was devoted to the discussion about [inequality](./inequality.md).
+An entire page was devoted to the discussion about link:inequality.adoc[inequality].
 
 == Public Debt
 The debt both doesn't matter, and at the same time, is possibly leading us to a crisis. Ultimately, the actual debt doesn't matter as much as the debt-to-GDP ratio, which is a measure of how easily the debt can be paid down. Confidence in the ability to pay the debt is what prevents a debt crisis from occurring. The argument then comes from deciding what the threshold is that moves a country from benign to dangerous. Ultimately, any sovereign country can print more money through, which will enhance it's ability to pay off any debt, but this is usually done by quickly driving up inflation, which often (but not necessarily) destroys the value of the currency for that nation.

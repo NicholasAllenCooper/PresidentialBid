@@ -1,0 +1,4 @@
+:toc:
+
+#Intro
+This is an ADOC Test

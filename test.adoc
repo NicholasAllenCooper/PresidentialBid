@@ -1,8 +1,0 @@
-:toc:
-
-= Title
-
-= Level 1 Intro
-This is an ADOC Test
-
-== Level 1 Intro

@@ -3,7 +3,9 @@ My claim is that people are not as interested in income inequality as they are a
 - Inequality of influence
 - The misery of abject poverty
 
-# What People Think of When They Talk about Inequality
+# Intro
+People typically talk about inequality in terms of money. However, my argument will be that it's actually secondary to what people are
+really concerned about.
 
 # The Root Concerns of Inequality
 People understand very well that there will always be people more skilled, more productive, more determine, and sometimes just plain more 

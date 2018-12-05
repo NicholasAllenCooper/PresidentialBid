@@ -45,6 +45,10 @@ I propose the following policies, in order of prioritization:
 
 7. [Feasibility Studies](moonshots.adoc)
 
+8. [Foreign Policy](foreign_policy.adoc)
+
+9. [US Territories](us_territories.adoc)
+
 ## Other
 ### Drug legalization
 Legalize drugs, tax them, and put taxes to use on rehabilitation centers.

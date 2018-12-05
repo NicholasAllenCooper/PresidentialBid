@@ -27,6 +27,8 @@ Actions are necessary, but awareness is the most important thing that you can do
 
 If you want things to change, we must first, accept our own responsibility and our own accountability to the shape of our society, and we must not allow ourselves to feel defeated.
 
+## Start Community Feasts!!!!
+
 ## Policy Details
 I propose the following policies, in order of prioritization:
 1. [Partisanship](partisanship.adoc)
@@ -62,6 +64,8 @@ Citizenship now takes 10 years or more. We allow anyone to start at 0% and make 
 ### Study Benefits and Dangers of AI Encroachment of Governance
 ### Feasibility Study for Earmarked Taxation
 Removing budgeting from congress
+
+### United Postal Union and the Last Mile
 
 ### Feasibility Study for Proportional Representation
 If elected, I would attempt a study to determine the feasibility of a system that would allow a blockchain-style system of voting, allowing each citizen to proportionally select the amount of power any specific representative has at any given moment in time. In other words, each person could effectively give one representative 20% of their vote for a bill, and another could receive 80% of their vote for a bill. If desired, the representation could be given to any individual, whether a trusted friend, or could be maintained to vote for each bill.

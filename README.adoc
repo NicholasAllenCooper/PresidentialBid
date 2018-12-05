@@ -1,6 +1,6 @@
 = The Presidential Bid of Nicholas Cooper
 
-:toc:
+:toc: right
 
 = Introducing My Presidential Bid
 I am announcing my bid for the United States presidency. I will be running, independently, outside of party influence, because I cannot, in good faith, attach my bid to either the GOP nor to the Democratic Party. Neither do I believe that I can attach my bid to the Green Party, the Libertarian Party, nor any other minor party associated with the United States, and I believe that will be why must make an independent run.
@@ -11,14 +11,14 @@ So, I find it best to begin with a vision and mission for what political positio
 
 The details regarding the changes I would advocate for are going to come, slow and plodding, as they are spelled out, analyzed, and criticized for effectiveness.
 
-## Your Responsibilities as a Citizen
+== Your Responsibilities as a Citizen
 This does not work without you. If you want a brighter America, then it must start with you. Your vote matters, and in fact, the ONLY thing that your vote does is count. However, your work does not end at the voting booth:
 
 Firstly, we have to deal with responsibilities. It appears to me that neither of the two major parties are interested in accountability and responsibility. Firstly, I personally define and use the word ‘responsibility’ as “the ability to respond”, and is something that we all share every day for anything we see in this world. It doesn’t necessarily mean that your action is always necessary nor beneficial, but in many ways, you are responsible for the troubles you see in the world around, even if it all comes down to changing your mind, and your perspective.
 
 I define those who are ‘accountable’ as those who will bear the consequences of the response. In this, you will find that I claim that the media is pandering to your dollar, that corporations are pandering to your dollar, that the government is pandering to your power, academia is pandering to your views on education, and society is made up of many of you. Therefore, even if I’m not speaking to all of you, if you blame society’s ills on any or all of these things, my claim is that we are all responsible, and we are all accountable, and there is no way around it but to hold ourselves responsible for what we see.
 
-Furthermore, I define ‘attribution’ as the cause, and in this respect, I understand that there are numerous attributions for how things got to where they are today. In many respects, things are much better than they were, for many people, in some ways, fears for where things are going, is not new, but must not be dismissed either, as dismissing those fears have led people to act out.
+Furthermore, I define 'attribution' as the cause, and in this respect, I understand that there are numerous attributions for how things got to where they are today. In many respects, things are much better than they were, for many people, in some ways, fears for where things are going, is not new, but must not be dismissed either, as dismissing those fears have led people to act out.
 
 There are numerous people who attribute their poverty to systemic means, and those who do would be right. These are things that must change, and they must change for our next generation. It must be understood that the real poverty does not rest alone with the cold nights without heat, the hungry nights without food, but it rests at the feet of the children of the overworked and overwhelmed who haven’t time to teach the lessons and wisdom to build a brighter future. Those lessons instead become lessons of despair and of fatalism, where there seems to exist no brighter future to share. Any work on poverty must both fix healthcare and hope. Our work on hunger must feed bellies and feed minds. Any work on our economy must not focus solely on bettering the insufficiency that comes from wages, but allow for the ability to take risks to better oneself.
 
@@ -31,62 +31,65 @@ Actions are necessary, but awareness is the most important thing that you can do
 
 If you want things to change, we must first, accept our own responsibility and our own accountability to the shape of our society, and we must not allow ourselves to feel defeated.
 
-## Start Community Feasts!!!!
+== Start Community Feasts!!!!
 
-## Policy Details
+== Policy Details
 I propose the following policies, in order of prioritization:
-1. [Partisanship](partisanship.adoc)
 
-2. [Healthcare Policy](healthcare.adoc)
+. link:partisanship.adoc[Partisanship]
 
-3. [Economic Policy](economy.adoc)
+. link:healthcare.adoc[Healthcare Policy]
 
-4. [Drug Policy](drugs.adoc)
+. link:economy.adoc[Economic Policy]
 
-5. [Citizenship and Immigration Policy](citizenship.adoc)
+. link:drugs.adoc[Drug Policy]
 
-6. [Education Policy](education.adoc)
+. link:citizenship.adoc[Citizenship and Immigration Policy]
 
-7. [Feasibility Studies](moonshots.adoc)
+. link:education.adoc[Education Policy]
 
-8. [Foreign Policy](foreign_policy.adoc)
+. link:moonshots.adoc[Feasibility Studies]
 
-9. [US Territories](us_territories.adoc)
+. link:foreign_policy.adoc[Foreign Policy]
 
-## Other
-### Drug legalization
+. link:us_territories.adoc[US Territories]
+
+== Other
+=== Drug legalization
 Legalize drugs, tax them, and put taxes to use on rehabilitation centers.
 
 This will end the cartels in Mexico as well, and have a large diminishing effect on organized crime.
 
-### Gun problem is a Mental Health Problem
+=== Gun problem is a Mental Health Problem
 Must deal with by changing society first. 
 
 People will get abortions in back-alleys, illegally, and dangerously if they cannot get them legally. The same is true with guns. However, more regulation and accountability must be in place.
 
-### Progressive Citizenship
+=== Progressive Citizenship
 Citizenship now takes 10 years or more. We allow anyone to start at 0% and make their way to 100% citizenship through time lived and worked, and a strong citizenship test.
 
 #[comment] (Problem with insurance as corporations)
 
-### Study Benefits and Dangers of AI Encroachment of Governance
-### Feasibility Study for Earmarked Taxation
+=== Study Benefits and Dangers of AI Encroachment of Governance
+=== Feasibility Study for Earmarked Taxation
 Removing budgeting from congress
 
-### United Postal Union and the Last Mile
+=== United Postal Union and the Last Mile
 
-### Feasibility Study for Proportional Representation
+=== Feasibility Study for Proportional Representation
 If elected, I would attempt a study to determine the feasibility of a system that would allow a blockchain-style system of voting, allowing each citizen to proportionally select the amount of power any specific representative has at any given moment in time. In other words, each person could effectively give one representative 20% of their vote for a bill, and another could receive 80% of their vote for a bill. If desired, the representation could be given to any individual, whether a trusted friend, or could be maintained to vote for each bill.
 The benefits of such a style of voting would be:
+
 * Absolute responsibility – You can vote yourself, or have someone else do it who is more likely to read each part of the bill being passed.
 * Immediate – You can change who represents you on-the-fly, if someone is found to be acting outside of their promises.
 
 There are numerous things that we’d have to get right before it could work, and this is where the feasibility study will demonstrate the possibility or the infeasibility in doing so:
+
 * Security – It would be necessary for us to authorize by citizenship, and to ensure malicious actors cannot overtake the system.
 * Ease – It would be necessary to demonstrate that even the technologically illiterate could use the system and so would those without access to technology. This may mean blockchain with paper backing.
 * Anonymity – It is almost a conflicting requirement that a vote be authorized and yet anonymous, and makes the idea of using blockchain very difficult.
 
 There are so many things that also need to be considered that require such a study before any governing organization would ever consider such an idea.
 
-### Fund an Experieent Reproduction Platform for Biomedical and Psychiatric Experiments
+=== Fund an Experieent Reproduction Platform for Biomedical and Psychiatric Experiments
 https://en.wikipedia.org/wiki/Replication_crisis#Funding_for_replication_studies

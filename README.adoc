@@ -36,6 +36,8 @@ If you want things to change, we must first, accept our own responsibility and o
 == Policy Details
 I propose the following policies, in order of prioritization:
 
+I need to make a dependancy graph to explain why things need to be done in a certain order.
+
 . link:partisanship.adoc[Partisanship]
 
 . link:healthcare.adoc[Healthcare Policy]

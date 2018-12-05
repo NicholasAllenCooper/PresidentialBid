@@ -1,27 +1,38 @@
-= Inequality
+= Inequality and Poverty
 
-:toc:
+:toc: right
 
 = Abstract
 My claim is that people are not as interested in income inequality as they are about:
+
 - Inequality of influence
 - The misery of abject poverty
+- The viscious cycle
 
 = Intro
 People typically talk about inequality in terms of money. However, my argument will be that it's actually secondary to what people are
-really concerned about.
+really concerned about: influence. However, money appears to be directly proportional to influence, and so people relate the two. People are also related to money, because emergencies happen, and without money, it creates a viscious spiral when one emergency destroys their lives. Additionally, poverty has many effects that are not only monetary.
+
+= The Root Concerns of Poverty
+
+The affects of poverty aren't simple to delineate. Poverty doesn't end with choosing between food and heat in the winter. It doesn't end with putting your child on the bus instead of driving them. It includes working 2 or 3 jobs in order to pay the rent, the food, the heat, and this affects the children who do not have the kind of social, mental, and life instruction needed to develop the skills for adulthood. Poverty is the desperation to leave instead of stay. Poverty is the constant fighting over money, that continue with children the next day at school.
+
+Poverty is by far the largest influence inhibiting a good education. With hope, it can serve as a drive to strive. Without hope, it leads to an attitude of asking, "why should I try?".
+
+== Some Causes of Poverty
+
+So, it's not poverty alone that must be dealt with, but it's also changing attitudes of fatalism into attitudes of hope.
+
+Poverty has many causes, many personal, some cultural, but most are systemic. The personal affects are there because of the systemic causes, further adding to the viscious cycle. There are plenty of people that want to ignore the systemic causes altogether, in order that they can either claim immunity from accountability, or due to the fact that they too experience much of the same misery.
+
+The fact is, poverty is universal. You cannot avoid it by being white, straight, male, cisgender christian. However, the amount of daily struggle in communities of color, women, LGBTQ, and non-christians will often make things every so much worse. We must all be allies, working together to deal with poverty together.
 
 = The Root Concerns of Inequality
-People understand very well that there will always be people more skilled, more productive, more determine, and sometimes just plain more 
-lucky or more willing to break the rules, and therefore will be more rich than others. Marx failed to account for Zipf's Law when it came 
-to discussions about equality. 
+People understand very well that there will always be people more skilled, more productive, more determine, and sometimes just plain more lucky or more willing to break the rules, and therefore will be more rich than others. Marx failed to account for Zipf's Law when it came to discussions about equality. 
 
-On the other hand, it's not to claim that these rich people are somehow better people, because they have more money. The public understands
-that money isn't everything, but there is a tendency to discuss things in terms of "deserving" and "undeserving" when it comes to money.
+On the other hand, it's not to claim that these rich people are somehow better people, because they have more money. The public understandsthat money isn't everything, but there is a tendency to discuss things in terms of "deserving" and "undeserving" when it comes to money.
 
-Trying to break down who deserves what immediately devolves into factions arguing things about people's lives which end up having no real
-relevance to the situation. The fact is, people have a history of being notoriously bad at determining who deserves things, but we are 
-often still attempting to make such judgements about people we have never met.
+Trying to break down who deserves what immediately devolves into factions arguing things about people's lives which end up having no realrelevance to the situation. The fact is, people have a history of being notoriously bad at determining who deserves things, but we are often still attempting to make such judgements about people we have never met.
 
 In some regards, this is necessary, in order to help deter crime and exploitation, especially when it is exceedingly obvious that 
 exploitation has occurred.
@@ -31,7 +42,8 @@ survive, but that they will thrive instead.
 
 The concern is still there. People are not only not thriving, many are abjectly miserable.
 
-== The Root Concerns of Poverty
+
+= The Root Concerns of Poverty
 
 == Immiseration
 
@@ -92,7 +104,7 @@ outspeak each other on every subject.
 
 Expectations and pressure and stress
 
-## Summary of the Root Concerns
+== Summary of the Root Concerns
 
 - Immiseration
 - Inequality of influence

@@ -91,5 +91,17 @@ There are numerous things that we’d have to get right before it could work, an
 
 There are so many things that also need to be considered that require such a study before any governing organization would ever consider such an idea.
 
+=== Git for Laws
+Version control and subsystems for law. How to deal law during crisis (i.e. no electricity)
+
+=== Pay for Teachers as a Function of Student Pay
+50% of students are those you teach directly, and the other 50% are randomly chosen from around the country. How to deal with immigration and emigration?
+
+=== Feasibility of Blockchain Currency
+
+* Backed up by physical currency
+* For anonymity sake, the security situation will have to be dealt with as in the election format
+* 
+
 === Fund an Experieent Reproduction Platform for Biomedical and Psychiatric Experiments
 https://en.wikipedia.org/wiki/Replication_crisis#Funding_for_replication_studies

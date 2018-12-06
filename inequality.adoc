@@ -19,13 +19,40 @@ The affects of poverty aren't simple to delineate. Poverty doesn't end with choo
 
 Poverty is by far the largest influence inhibiting a good education. With hope, it can serve as a drive to strive. Without hope, it leads to an attitude of asking, "why should I try?".
 
-== Some Causes of Poverty
+== Multiple Causes of Poverty
 
 So, it's not poverty alone that must be dealt with, but it's also changing attitudes of fatalism into attitudes of hope.
 
 Poverty has many causes, many personal, some cultural, but most are systemic. The personal affects are there because of the systemic causes, further adding to the viscious cycle. There are plenty of people that want to ignore the systemic causes altogether, in order that they can either claim immunity from accountability, or due to the fact that they too experience much of the same misery.
 
-The fact is, poverty is universal. You cannot avoid it by being white, straight, male, cisgender christian. However, the amount of daily struggle in communities of color, women, LGBTQ, and non-christians will often make things every so much worse. We must all be allies, working together to deal with poverty together.
+=== Poverty and Minorities
+To be blunt, poverty is universal. You cannot avoid it by being white, straight, male, cisgender christian. However, the amount of daily struggle in communities of color, women, LGBTQ, and non-christians will often make things every so much worse. Still, we must all be allies, working together to deal with poverty together. 
+
+People are not going to understand what you are going through, and calmly explaining why things are different is the best way to change people's understanding. We are not going to fully understand each other, and some concessions are going to have to be made to that end, but it doesn't mean that the push to make things better is futile either.
+
+=== Wage Growth Stagnation
+In the economics of supply and demand, most people understand that an oversupply of labor decreases wages, and that scarcity increases wages. However, the oversupply can be related to many things, and the typical culprits are either problems that are:
+
+- intractible
+-- wages have not caught up globally, and yet globalism is necessary maintain an economy in international trade, until then cycles between offshoring (due to expense problems) and onshoring (due to quality problems) will continue until there is more of an even playing field globally; attempts to halt globalization are attempts to wreck our own economy
+-- tasks that can be automated will be automated, and all that can be done is to delay the inevitable
+- irrational
+-- especially in technology, instead of taking on and training labor for domain-specific knowledge, companies are creating a viscious circle of requiring experience that limits any newcomers
+-- loyalty between employees and employers is at an all time low, and there doesn't seem to be any care to deal with this as a problem
+-- long-term unemployment leads to perception of unemployability
+- existent, but not as bad as it is made out
+-- immigration does depress wage growth, but is not at the levels that it are made out to be, since immigration also increases jobs
+
+=== Poverties and Attitudes
+
+* Attitudes of "never going to get better"
+* Attitudes towards those who have served in the armed forces
+* Attitudes towards those who have served time
+
+
+Some of the problems are not
+
+It is definitely the case that poverty is related to inequality
 
 = The Root Concerns of Inequality
 People understand very well that there will always be people more skilled, more productive, more determine, and sometimes just plain more lucky or more willing to break the rules, and therefore will be more rich than others. Marx failed to account for Zipf's Law when it came to discussions about equality. 

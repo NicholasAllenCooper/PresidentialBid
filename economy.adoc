@@ -19,8 +19,8 @@ https://www.forbes.com/sites/rickungar/2012/09/16/the-numbers-dont-lie-why-lower
 It will be necessary for us to deal with the debt-to-GDP problem before it escalates, but we are in a position where we cannot manage this in another recession. Therefore, policies will need to be put into place to ensure that we do deal with it. We need to tie our income to GDP growth to stablize our economy. As GDP growth decreases and goes negative, taxes must lower to match. As GDP growth increases, taxes must increase to match. Therefore, it is best that our tax rate be a function of the GDP growth.
 
 Furthermore, our top 3 spending areas, including both mandatory and discretionary spending, are:
-. Healthcare
-. Social Security
+. Social Security -- is self-funded, and isn't necessary to include in the discussion of debt
+. Healthcare -- 
 . Defense and Homeland Security
 
 https://www.nationalpriorities.org/budget-basics/federal-budget-101/spending/
@@ -55,6 +55,7 @@ https://motherboard.vice.com/en_us/article/mby3ja/complex-systems-theorists-expl
 == Taxes and Basic Income
 
 I'm proposing the following changes all at once:
+
 * Flat tax
 * Basic Guaranteed Income
 * Dissolution of laws that have traditionally contributed to fighting poverty
@@ -66,36 +67,48 @@ Firstly, hard-and-fast irreversible changes to the economy cause problems. There
 This idea is so much further down on the list as a priority, because this would effectively be an experiment run on the public, one that must be reversible if it demonstrates that it is the cause of making things worse. However, as is always the case with any policy, policy makers may lie about the causes, and may change implementation or the metrics.
 
 The flat tax rate will then be parameterized by:
+
 * The state of the economy - increasing with the GDP growth rate
 * The public debt - increasing with the GDP-to-debt ratio
 
 Ultimately, I'm proposing the following parameterized tax rate on personal incomes, before accounting for deductions or Basic Income:
 
+[stem]
+++++
+  R = a^2
+++++
+
+image::https://www.codecogs.com/eqnedit.php?latex=\inline&space;R&space;=&space;100\%(r&space;&plus;&space;av&space;&plus;&space;bm&space;&plus;&space;ck&space;&plus;&space;dg)
+
 <a href="https://www.codecogs.com/eqnedit.php?latex=\inline&space;R&space;=&space;100\%(r&space;&plus;&space;av&space;&plus;&space;bm&space;&plus;&space;ck&space;&plus;&space;dg)" target="_blank"><img src="https://latex.codecogs.com/svg.latex?\inline&space;R&space;=&space;100\%(r&space;&plus;&space;av&space;&plus;&space;bm&space;&plus;&space;ck&space;&plus;&space;dg)" title="R = 100\%(r + av + bm + ck + dg)" /></a>
 
 The parameters will be:
 
- Parameter |  Description  | Recommendation
----|---
- R | Tax rate                         | Default Value
----|---
- r | Base rate                        | 0.30
- v | GINI coefficient                 | 0.04
- m | Intergenerational Mobility Index | 0.04
- k | Debt-to-GDP Ratio                | 0.10
- g | GDP Growth Rate                  | 2.00
+|===
+| Parameter |  Description  | Recommendation
+
+| R | Tax rate                         | Default Value
+|---|---|---
+| r | Base rate                        | 0.30
+| v | GINI coefficient                 | 0.04
+| m | Intergenerational Mobility Index | 0.04
+| k | Debt-to-GDP Ratio                | 0.10
+| g | GDP Growth Rate                  | 2.00
+|===
 
 This will also allow for us to handle emergency situations, taking on additional deficits such as wars and catastrophes, increasing our GDP-to-debt ratio as it goes.
 
 Example tax rates using the recommended values would be:
 
+|===
 | GINI | IGM | Debt-to-GDP | GDP Growth ||  R    | Comment |
-|------|-----|-------------|------------||-------|---------|
+||||||||
 | 0.5  | 0.5 | 100%        | 2%         || 48.0% | Current standing in 2018 |
 | 0.2  | 0.2 | 70%         | 4%         || 46.6% | Ideal scenario           |
 | 0.2  | 0.2 | 20%         | -4%        || 25.6% | Somewhat realistic minimum tax rate |
 | 0.3  | 0.35 | 240%       | -2%        || 52.6% | Hypothetical recession using Japan's current conditions |
 | 0.2  | 0.2  | 70%        | 4%         || 46.6% | Reasonable target |
+|===
 
 The public will have the ability to vote on these parameters as 
 
@@ -105,36 +118,39 @@ The figures here will be given public
 The 
 
 So, it’s necessary that this be done as varying processes with the reins held over some variables and not others, so it CAN change, and the changes can made be predictable. The ultimate goal, assuming the years have played out, and the full implementation is completed, will be:
+
+* Averaged points over time, how many hours worked (falls off after lack of job)
+
 * A Basic Income which is parameterized by:
-    * An acceptable disparity measure (such as the GINI coefficient and Intergenerational Mobility Index) that will increase the payout as inequality worsens, with the goal of maintaining a range for the measure used.
-    * An acceptable inflationary measure (such as CPI) that will increase the payout as inflation increases, which is supplemental to the inequality measure. This measure would be locationally-based on the cheapest living conditions in the nation. Any gaps would have to be picked up by: states, local cities and counties, volunteer organizations.
-    * The amount of service that the individual has given, prioritized by military service, and then by volunteer service. More details will be spelled out at a later date.
-    * The number of hours worked in that time period, time averaged over several months, attempting also to register more small businesses like child daycare and home education by the hours worked. Losing a job would mean that the Basic Income would begin to fall off as well, instead of becoming a sudden drop.
+** An acceptable disparity measure (such as the GINI coefficient and Intergenerational Mobility Index) that will increase the payout as inequality worsens, with the goal of maintaining a range for the measure used.
+** An acceptable inflationary measure (such as CPI) that will increase the payout as inflation increases, which is supplemental to the inequality measure. This measure would be locationally-based on the cheapest living conditions in the nation. Any gaps would have to be picked up by: states, local cities and counties, volunteer organizations.
+** The amount of service that the individual has given, prioritized by military service, and then by volunteer service. More details will be spelled out at a later date.
+** The number of hours worked in that time period, time averaged over several months, attempting also to register more small businesses like child daycare and home education by the hours worked. Losing a job would mean that the Basic Income would begin to fall off as well, instead of becoming a sudden drop.
 *	A flat tax, parameterized by:
-    * The state of the economy – It will decrease during recession, and increase during booms
-    * The public debt – Increasing in taxation as the debt increases means that there will be a lag, since it is not tied to the deficit, but to the debt itself. The goal will be to get the tax level to set the public debt between 60% to 75% of GDP.
-    * This also allows handling of emergency situations
+** The state of the economy – It will decrease during recession, and increase during booms
+** The public debt – Increasing in taxation as the debt increases means that there will be a lag, since it is not tied to the deficit, but to the debt itself. The goal will be to get the tax level to set the public debt between 60% to 75% of GDP.
+** This also allows handling of emergency situations
 *	Disability will become entirely separate from the process:
-    * Employers will receive help to make workplaces assessable when necessary for an employee.
-    * Citizens unable to work will not receive payments directly, but home-help, etc., will be paid for out of disability.
-    * There will be no penalty for any work done while disabled, for any type of disability.
+** Employers will receive help to make workplaces assessable when necessary for an employee.
+** Citizens unable to work will not receive payments directly, but home-help, etc., will be paid for out of disability.
+** There will be no penalty for any work done while disabled, for any type of disability.
 *	Changes to taxation:
-    * All short-term consumables (≤ 2 yrs) and services will be tax deductible, and will also include rent and interest.
-    * Capital Gains are taxed at the full rate, and Capital Losses are fully deductible.
-    * All transfer of money prior to the taxation cutoff date is removed from the transferor as income and will be considered by the receiver as income.
-    * Charities will be taxed on money that is neither used to pay workers nor for the consumables and distributions.
+** All short-term consumables (≤ 2 yrs) and services will be tax deductible, and will also include rent and interest.
+** Capital Gains are taxed at the full rate, and Capital Losses are fully deductible.
+** All transfer of money prior to the taxation cutoff date is removed from the transferor as income and will be considered by the receiver as income.
+** Charities will be taxed on money that is neither used to pay workers nor for the consumables and distributions.
 * Slowly, the following will be phased out:
-    * Social Security and TRS will be entirely replaced with the Basic Income, but only over nearly 50 years as those that paid in are still entitled to the money paid. 
-    * Employment insurance is removed.
-    * Public Pensions and Thrift Savings Plans will be replaced with 401k with matching.
-    * Minimum Wage will be phased out altogether, and hopefully, so will jobs that don’t pay well.
+** Social Security and TRS will be entirely replaced with the Basic Income, but only over nearly 50 years as those that paid in are still entitled to the money paid. 
+** Employment insurance is removed.
+** Public Pensions and Thrift Savings Plans will be replaced with 401k with matching.
+** Minimum Wage will be phased out altogether, and hopefully, so will jobs that don’t pay well.
 * Alternatives to Basic Income
-    * Public housing, with a cafeteria, and a business center will be given as a choice to replace basic income for those that cannot maintain themselves due to disability and/or financial illiteracy.
-    * Further details to the public housing will follow as it is spelled out.
+** Public housing, with a cafeteria, and a business center will be given as a choice to replace basic income for those that cannot maintain themselves due to disability and/or financial illiteracy.
+** Further details to the public housing will follow as it is spelled out.
 * Requirements from the public:
-    * Churches, community service, and volunteer agencies will still need to pick up some slack.
+** Churches, community service, and volunteer agencies will still need to pick up some slack.
 * Miscellaneous
-    * Children will receive a Basic Income into a trust fund that they get later, to pay for college expenses or a first house.
+** Children will receive a Basic Income into a trust fund that they get later, to pay for college expenses or a first house.
 
 Discuss problems: https://www.newyorker.com/magazine/2018/07/09/who-really-stands-to-win-from-universal-basic-income
 

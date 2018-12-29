@@ -5,9 +5,9 @@
 = Abstract
 My claim is that people are not as interested in income inequality as they are about:
 
-- Inequality of influence
-- The misery of abject poverty
-- The viscious cycle
+. The misery of abject poverty -- a high concern for those dealing with it such that, after working several jobs, they still must choose between electricity and food
+. Inequality of influence -- a concern for both those who deal directly with it, and those that are concerned for our democracy, money captures interests in our government
+. The viscious cycle -- when intergenerational mobility is weak, then rich children stay rich, and poor children stay poor, regardless of how much personal investment and work they do
 
 = Intro
 People typically talk about inequality in terms of money. However, my argument will be that it's actually secondary to what people are

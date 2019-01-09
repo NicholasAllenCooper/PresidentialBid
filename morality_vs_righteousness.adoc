@@ -1,0 +1,66 @@
+= Feelings vs Facts and Post-Truth
+[quote, Alexandria Ocasio-Cortez]
+“I think that there's a lot of people more concerned about being precisely, factually, and semantically correct than about being morally right.”
+
+[quote, Whoopi Goldberg]
+"This is not about facts, it's about feelings."
+
+*Warning: Personal Rant*
+
+This is when I'd expect a Jordan Peterson-type to explain how this is the result of post-modernism's effects on our current society, attempting to keep things like "truth" squishy and put feelings on the same level as facts.
+
+And he's not totally wrong, but he is also as factually incorrect with his understanding about the situation as demonstrated in the way that he presents his arguments.
+
+And the reason that I can say both of those things without contradiction is because of the semantic problems we have with "squishy" words like "wrong".
+
+So, let's get into the summary of what is trying to be expressed and why it matters first, or I'm going to lose a lot of eyeballs from this thread:
+
+* Humans are emotional, intuitive, rational, irrational, and beings, and treating humans as if they are completely rational beings is irrational
+** Humans will respond first to intuitive arguments they don't perceive fault with
+** Humans will then respond either to the emotional (ethos) or rational (logos) argument
+* Intuitive and emotional arguments are often wrong
+* Rational arguments can start from the wrong premises
+* The entire discussion of what is "factually correct" and "moral" do not usually meet, unless the moral action requires factual premises
+* Economic arguments require factual premises
+* People often focus on debunking things that are unrelated to the premises in order to demonstrate a failure in the author (discrediting the author's pathos)
+
+I can now claim, only personally, that Alexandria Ocasio-Cortez made a statement that, divorced from the discussion she was having about taxation, was an insightful quote. Put in context with the discussion, it was nothing more than a emotional manipulation via guilt-trip being used as moralizing. On the other hand, AOC's presentation was much less problematic than the temper tantrum that Whoopi Goldberg displayed with her quote.
+
+Whoopi's response is not only wrong but dangerous. It is the complete dejection of the rational argument altogether without warrant. AOC did not regject the rational argument, but made a call-to-action to look out for back-end rationalizing using false premises, and not rejecting the intuition either. Of course we know that intuition can be wrong, but so can rational premises, and this is why it's important to pay attention and see which, if any, fails.
+
+== Post-Modernism
+
+=== From Hegel's Triad
+Let's start with some background on something that long predates any of this. Hegel (although the terms come from Fichte) says that when a useful philosophical position first enters discussion, there are 3 things that happen:
+
+* Thesis -- the position is an answer to all of our dreams and goals and must be integrated into everything
+* Antithesis -- there are serious failings to the position and it must be removed from everywhere it encroached
+* Synthesis -- there are contexts in which the position works very well, and contexts in which the position is less suited, and when fully understood, the conflicts can be rectified
+
+Also, it's important to note that thesis must cause antithesis, and that both must then cause synthesis, but that it is not required that "a period of thesis end" before "antithesis can begin". Instead once the ideas start to roll out, these 3 stages start to act simultaneously, and instead we have more of a phasing-in and phasing-out.
+
+=== Modernism, Post-Modernism, and the Synthesis
+
+The reason this is important to understand is that often philosophical positions are misinterpreted, misconstrued, and misused while the thesis phase is in full-swing. This certainly makes the advances and arguments used during antithesis more jarring, and the misconstruing continues in the antithesis stage as people use fear, uncertainty, and doubt, in addition to the important and serious arguments that are made during antithesis. Pop philosophy is rife with misconstrual, and this is where we put Peterson, who has demonstrated that he hasn't read or understood the antithesis arguments are railing against monsters under the bed. All of this; however, is required to reach the synthesis phase.
+
+=== The Modernist Claim
+
+Philosophical modernism can be cutely summed up as "rational thinking and observations about our world will lead us to understanding all truths, and we will all be better for it".
+
+We often hear the word "scientism", which is the treatment of science as a "anthropomorphic being" in itself, one that is all beneficial and can become all-knowing if we let it. This is part of the misconstrual of the thesis position. It has led very beneficial revolutions in industry and technology, but it is also responsible for ignoring people's lives and the environment in the process.
+
+We often hear the word "progress", which is treated as always good. This is also a misconstrual of the position of modernism.
+
+Scientific analysis of our world has been enormously beneficial in so many ways, but modernism seemingly ignores the problems that industrialization has given us.
+
+=== The Post-modernist Claim
+
+Believe it or not, post-modernist's biggest arguments come directly from modernism. Rationalist Gödel discovered that there are some truths we cannot know. It was also argued very directly that we cannot use observation to prove that observation works. Therefore, we can continue to use these ideas, but we must accept that there are limits to where they can be used.
+
+It is post-modernism that gives us the tools to separate what is scientific from pseudoscientific. It is post-modernism, fighting against the prevaling axioms, that has given us structuralism in mathematics, allowing us the idea of complex types, as we know them today, in computer science.
+
+Post-modernism will rightly state that nothing can be summed up in a meme. Likewise the understanding of modernism is not complete by the cutesy way I worded modernism before. Instead, to speak poetically, one must dive into these ideas and swim around, allowing your skin to become wrinkled, before you'll fully understand them enough to agree or disagree on many of the foundational points.
+
+=== Where is the Synthesis?
+
+Well, it's been here since the advent of modernism. The synthesis is the understanding where it works and where it should not travel.

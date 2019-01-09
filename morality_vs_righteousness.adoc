@@ -21,13 +21,13 @@ So, let's get into the summary of what is trying to be expressed and why it matt
 ** Humans will then respond either to the emotional (ethos) or rational (logos) argument
 * Intuitive and emotional arguments are often wrong
 * Rational arguments can start from the wrong premises
-* The entire discussion of what is "factually correct" and "moral" do not usually meet, unless the moral action requires factual premises
+* The entire discussion of what is "factually correct" and "moral" do not usually intertwine, unless the moral action requires factual premises to implement
 * Economic arguments require factual premises
 * People often focus on debunking things that are unrelated to the premises in order to demonstrate a failure in the author (discrediting the author's pathos)
 
 I can now claim, only personally, that Alexandria Ocasio-Cortez made a statement that, divorced from the discussion she was having about taxation, was an insightful quote. Put in context with the discussion, it was nothing more than a emotional manipulation via guilt-trip being used as moralizing. On the other hand, AOC's presentation was much less problematic than the temper tantrum that Whoopi Goldberg displayed with her quote.
 
-Whoopi's response is not only wrong but dangerous. It is the complete dejection of the rational argument altogether without warrant. AOC did not regject the rational argument, but made a call-to-action to look out for back-end rationalizing using false premises, and not rejecting the intuition either. Of course we know that intuition can be wrong, but so can rational premises, and this is why it's important to pay attention and see which, if any, fails.
+Whoopi's response is not only wrong but dangerous. It is the complete dejection of the rational argument altogether without warrant. AOC did not reject the rational argument, but made a call-to-action be aware of back-end rationalizing using false premises, and an action to avoid rejecting the intuition outright. Of course we know that intuition can be wrong, but so can rational premises, and this is why it's important to pay attention and see which, if any, fails.
 
 == Post-Modernism
 
@@ -54,6 +54,8 @@ We often hear the word "progress", which is treated as always good. This is also
 
 Scientific analysis of our world has been enormously beneficial in so many ways, but modernism seemingly ignores the problems that industrialization has given us.
 
+I'll also add for sake of the synthetic argument that the thesis argument favors reducing things to their smallest element and assuming that all things have the least number of causes.
+
 === The Post-modernist Claim
 
 Believe it or not, post-modernist's biggest arguments come directly from modernism. Rationalist Gödel discovered that there are some truths we cannot know. It was also argued very directly that we cannot use observation to prove that observation works. Therefore, we can continue to use these ideas, but we must accept that there are limits to where they can be used.
@@ -62,6 +64,20 @@ It is post-modernism that gives us the tools to separate what is scientific from
 
 Post-modernism will rightly state that nothing can be summed up in a meme. Likewise the understanding of modernism is not complete by the cutesy way I worded modernism before. Instead, to speak poetically, one must dive into these ideas and swim around, allowing your skin to become wrinkled, before you'll fully understand them enough to agree or disagree on many of the foundational points.
 
+I'll also add for the synthetic argument that post-modernism doesn't focus on reductionism, but that holism is the outgrowth of questioning the modernist method.
+
 === Where is the Synthesis?
 
 Well, it's been here since the advent of modernism. The synthesis is the understanding where it works and where it should not travel.
+
+For one, we understand now that rationality is not opposed to intuition. In fact, rationality follows the disciplined nature of the intuitive notion of logic through to its conclusions. In effect, rationality is the disciplined application of intuitive principles. Logic is an outgrowth of the evolutionary process of attempting to encode causation for prediction purposes, in order to minimize surprise and account for building a world of expectations for each to survive and thrive.
+
+THe mind is not all-or-nothing when it comes to rationality and intuition. It may have seemed that intuition is creative and attempts to seek out everything, while rationality cuts through solutions until it finds the right now, but this is only an approximation to what is really happening.
+
+Morality cannot be broken down to be rational nor intuitive, but require discussions of both.
+
+Application of mathematics cannot be fully understood by axiomatic means, but requires intuitive understanding also.
+
+This is also why expectations factor so heavily in moral discussions. Expectation is the principle foundation for property and ownership.
+
+It is by these insights that there is no disconnect between the rational and intuitive, that the emotion must be discussed, instead of rejected outright, and ultimately that what each of us does affects all of us gets to the heart of the synthesis. There is a connectionism that cannot be ignored.

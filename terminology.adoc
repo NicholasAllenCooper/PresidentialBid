@@ -1,21 +1,45 @@
 = Rhetoric and Polemic
 
+Rhetoric is a study of discussions aimed at changing minds. Polemic is the nasty vitriolic attacks people make against each other in order to discredit others and increase tribalism.
 
-
-= Responsibility, Accountability, Agency, Authority, Causation, and Blame
+= The Many Ways in Which the Word Responsibility is Misused
 
 These words are often conflated, and they are conflated to the detriment of everyone who use them and who hear them. It would benefit everyone to discuss the meanings of these words and understand them fully before they start to use them.
 
-== Responsibility
+== Responsibility and Agency
 
-Literally, "The ability to respond". I could say all day that the biggest problem that people have in general is that no longer believe that they have responsibility for what has happened to them. This is inherently true, because if we are using the word *appropriately*, it means that we are "enabled" to make changes to our lives. However, what we can argue about is the effect and effectiveness of the changes we are capable of making.
+Literally, "The ability to respond". I could say all day that the biggest problem that people have in general is that no longer believe that they have responsibility for what has happened to them. This is inherently true, because if we are using the word *appropriately*, it means that we are "enabled" (agency) to make changes to our lives. However, what we can argue about is the effect and effectiveness of the changes we are capable of making. Having agency is the then the perception of being enabled to respond.
 
 I once witnessed an older couple in a line for a buffet. Both the man and woman were of an age where walking and bending were difficult for both of them. The lady's purse fell over, and before she could do anything about it, a young boy picked up much of the change and handed it back to her. The gentleman's immediate claim, "Thank you lad, but that is not your responsibility". It was at this moment that the boy said, "I just did what I could". The lad understood at that age, without really knowing the difference between the words that he had the ability to respond to the situation, therefore making it his responsibility, even though the boy was neither accountable to the consequences nor to blame for what happened.
 
-Likewise, responsibility is ubiquitous. It is indeed something that we can take on at a whim. People are often afraid of responsibility, because they are afraid of blame. Likewise, it is often wise to recognize when to respond and when not to. Response and action are not always the beneficial way to go, because timed response and delayed actions can often lead to better outcomes.
+Likewise, responsibility is ubiquitous. It is indeed something that we can take on at a whim. People are often afraid of responsibility, because they are afraid of blame. Likewise, it is often wise to recognize when to respond and when not to. Response and action are not always the best way to go, because timed response and delayed actions can often lead to better outcomes.
 
 == Causation and Blame
 
-Without heading into the Quantum quirks of causation, we usually interpret causation as 
+Without heading into the Quantum quirks of causation, we usually interpret a cause of an effect as the events that lead to the effect.
+
+That is to say that ultimately, typical events have numerous causes, not just one. It is not possible to separate out causes and claim that only one of the causes is important. However, when we are going to put value to causation, we usually begin ordering the value according to various criteria, in order to assign blame:
+
+* Because causation is based on both probabilty and strength of cause, these two parameters are often worked into our calculus of assigning blame
+* We typically do not blame causes that are not controllable, nor those causes that are without intention
+* We typically assign other biases, such as tribal biases, into our calculus of assigning blame.
+
+Ultimately, blame is an attempt at ignoring responsibility (our ability to respond) by attempting to assign accountability where it may or may not be misplaced. This is why it is often constituted as a "blame-game", because assigning blame is not the same as looking at causation, and working through both: how to fix the problem and how to assure it does not reoccur.
 
 == Blame and Accountability
+
+Accountability is also not the same as blame. Blame is typically assigned after the event, and accountability is assigned before an event occurs. Assigning accountability is the assignment of the role that means one takes care of the resolution and the prevention. Accountability is a sign of good faith in one's reliability, and that can obviously be broken.
+
+Responsibility is shared by everyone that interacts, but accountability is often shared by much fewer people, if not one.
+
+== Accountability and Authority
+
+The problem with accountability is that of authority. Authority differs from responsibility whereas responsibility says that you may act, authority says that actions must be permitted by the one with authority. The purpose of authority is typically to ensure experience and expertise is combined with accountability. Authority requires such experience and expertise, and it requires the acceptance of accountability; otherwise, it is false.
+
+Oftentimes, people give authority to things, such as information sources. The more authority one gives a source of information, the more valued the source is to that person. The authoritative information source is expected to have the relevant experience and expertise and be accountable for misinformation.
+
+
+
+== In Management
+
+Good employees need to feel empowered to do their work (agency). They need to be clear what work is expected from them (responsibility). They want management to make decisions regarding their ....
